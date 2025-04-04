@@ -1,0 +1,7 @@
+2025-04-04 08:02:06.323381 - Received CBT.V508.FILE331.PDS from FILE331.XMI 
+2025-04-04 08:02:06.324111 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:02:06.324281 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$$DOC
+2025-04-04 08:02:06.324426 - Found $$NOTEHO.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/$$NOTEHO
+2025-04-04 08:02:06.324558 - Found @FILE331.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/@FILE331
+2025-04-04 08:02:06.324678 - Found SETPTRBY.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/SETPTRBY
+2025-04-04 08:02:06.324804 - Found SETPTRTO.txt (text/plain) in CBT.V508.FILE331.PDS, moved to PDS/SETPTRTO
